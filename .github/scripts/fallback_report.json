@@ -1,0 +1,32 @@
+[
+  {
+    "id": "CM-SQLI-001",
+    "finding_id": "CM-SQLI-001",
+    "title": "SQL Injection in routes/login.ts",
+    "severity": "CRITICAL",
+    "file": "routes/login.ts",
+    "file_path": "routes/login.ts",
+    "line": 34,
+    "confidence": 95
+  },
+  {
+    "id": "CM-SQLI-002",
+    "finding_id": "CM-SQLI-002",
+    "title": "SQL Injection in routes/search.ts",
+    "severity": "HIGH",
+    "file": "routes/search.ts",
+    "file_path": "routes/search.ts",
+    "line": 23,
+    "confidence": 90
+  },
+  {
+    "id": "CM-SQLI-003",
+    "finding_id": "CM-SQLI-003",
+    "title": "Database Schema SQL Injection in routes/search.ts",
+    "severity": "HIGH",
+    "file": "routes/search.ts",
+    "file_path": "routes/search.ts",
+    "line": 47,
+    "confidence": 85
+  }
+]
